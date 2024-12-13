@@ -394,5 +394,7 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
+Aspose.PDF.24.11.0/
+
 # JetBrains Rider
 *.sln.iml
